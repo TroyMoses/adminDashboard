@@ -1,4 +1,4 @@
-import './globals.css';
+import './ui/globals.css';
 import Head from 'next/head';
 
 export const metadata = {

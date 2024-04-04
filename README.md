@@ -1,7 +1,7 @@
 
-# NALONGO FOUNDATION
+# ADMIN DASHBOARD
 
-Welcome to the Nalongo FOundation Website! This is a Next.js website for a foundation that specializes in providing educational support especially to the young children. The website is designed to showcase the foundation's services and allow users to get in touch for inquiries and feedback. It also gives users chance to support the cause by donating some funds.
+Welcome to the Admin Dashboard!
 
 ## Table of Contents
 
@@ -27,13 +27,13 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TroyMoses/charityApp.git
+   git clone https://github.com/TroyMoses/adminDashboard.git
    ```
 
 2. Change into the project directory:
 
    ```bash
-   cd charityApp
+   cd adminDashboard
    ```
 
 3. Install the dependencies:
@@ -54,7 +54,7 @@ The website will be accessible at [http://localhost:3000](http://localhost:3000)
 
 ## Contributing
 
-We welcome contributions from the community! If you want to contribute to the Helping Bank project, please follow these steps:
+We welcome contributions from the community! If you want to contribute to the Admin Dashboard project, please follow these steps:
 
 1. Fork the repository on GitHub.
 
@@ -70,4 +70,4 @@ Our team will review your pull request, provide feedback, and merge it if everyt
 
 ## Bug Report
 
-If you encounter any bugs or issues while using the Ozoh Engineering Company website, please open a new issue in this repository. Be sure to include details about the problem, steps to reproduce it, and any relevant error messages.
+If you encounter any bugs or issues while using the Admin Dashboard, please open a new issue in this repository. Be sure to include details about the problem, steps to reproduce it, and any relevant error messages.
